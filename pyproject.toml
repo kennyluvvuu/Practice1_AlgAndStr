@@ -1,0 +1,12 @@
+[project]
+name = "music-player"
+version = "1.0.0"
+description = "SUPER PUPER MUSIC PLAYER"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "customtkinter>=6.0.0",
+    "pygame>=2.6.1",
+    "pylint>=4.0.9",
+    "ruff>=0.16.8",
+]

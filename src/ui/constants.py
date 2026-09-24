@@ -1,0 +1,21 @@
+"""Константы стилей и форматов для графического интерфейса"""
+
+FONT_NAME = "Iosevka Nerd Font"
+AUDIO_EXTENSIONS = {".mp3", ".wav", ".ogg", ".flac", ".m4a", ".aac", ".aiff", ".aif"}
+
+COLOR_BG_DARK = "#09090b"
+COLOR_BG_PANEL = "#101012"
+COLOR_BG_CARD = "#121214"
+COLOR_BG_HOVER = "#18181b"
+COLOR_BG_SELECTED = "#27272a"
+COLOR_BG_PLAYING = "#1c1c20"
+COLOR_BORDER = "#27272a"
+COLOR_BORDER_DRAG = "#71717a"
+COLOR_BORDER_DROP = "#ffffff"
+COLOR_TEXT_MAIN = "#f4f4f5"
+COLOR_TEXT_MUTED = "#71717a"
+COLOR_TEXT_SECONDARY = "#a1a1aa"
+COLOR_TEXT_DIM = "#52525b"
+COLOR_BTN_PRIMARY_BG = "#ededed"
+COLOR_BTN_PRIMARY_FG = "#09090b"
+COLOR_BTN_PRIMARY_HOVER = "#ffffff"
