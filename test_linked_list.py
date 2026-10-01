@@ -2,7 +2,7 @@
 
 import unittest
 
-from linked_list import LinkedList, LinkedListItem  # pylint: disable=E0401
+from src.models.linked_list import LinkedList, LinkedListItem  # pylint: disable=E0401
 
 TEST_LEN = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
