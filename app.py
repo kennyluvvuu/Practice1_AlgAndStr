@@ -7,8 +7,10 @@ from typing import Dict, List, Optional
 from tkinter import filedialog, Event
 import customtkinter as ctk
 
-from src.models.linked_list import Composition, LinkedListItem, PlayList
 from audio_player import AudioPlayer
+from src.models.composition import Composition
+from src.models.linked_list import LinkedListItem
+from src.models.playlist import PlayList
 
 FONT_NAME = "Iosevka Nerd Font"
 
